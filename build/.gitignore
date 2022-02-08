@@ -1,0 +1,6 @@
+cOut*
+dut_network_client
+testHarnessRun
+*_vitis.graphml
+buildLog.log
+compilerInfo.txt

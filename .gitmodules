@@ -1,0 +1,3 @@
+[submodule "submodules/vitis"]
+	path = submodules/vitis
+	url = git@github.com:ucb-cyarp/vitis.git
