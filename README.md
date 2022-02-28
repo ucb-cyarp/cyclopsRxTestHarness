@@ -4,7 +4,7 @@
 ### On Server:
 1. Copy design file or link design to test (DUT) under `build/rev1BB_rx_dut.graphml`
 2. Select compilers (if applicable)
-3. Change directory to `build\` and run `./build.sh`
+3. Change directory to `build/` and run `./build.sh`
 
 ### On Client:
 1. Copy `build/dut_network_client` from server to client
