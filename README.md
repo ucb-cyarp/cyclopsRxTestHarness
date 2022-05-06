@@ -17,7 +17,7 @@
     4. Select `Build` in the sfunction menu bar
 
 ## Use
-1. On the server, change into `build\` and run `runTestHarness.sh`
+1. On the server, change into `build/` and run `runTestHarness.sh`
 2. On the client, run the simulink diagram
 
 The test harness will exit when simulink finishes its run.
